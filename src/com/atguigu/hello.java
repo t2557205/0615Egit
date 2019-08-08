@@ -6,6 +6,7 @@ public class hello {
 		
 		System.out.println("这是一个程序！");
 		System.out.println("我新加了一个功能！");
+		System.out.println("这是另一个程序！");
 		System.out.println("hello world!");
 	}
 }
